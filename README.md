@@ -1,2 +1,2 @@
 # my-first-project
-お試し
+お試し用のプロジェクト 
